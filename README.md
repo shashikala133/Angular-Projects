@@ -1,2 +1,2 @@
 # Android-Projects
-Contact App
+App for sending message
